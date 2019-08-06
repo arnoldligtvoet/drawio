@@ -25,3 +25,4 @@ Draw.loadPlugin(function(ui) {
 		
 		return result;
 	};
+});
