@@ -50,9 +50,9 @@ Draw.loadPlugin(function(ui) {
 //    });
 //
 //    // Adds menu
-    ui.menubar.addMenu('Hello, World Menu', function(menu, parent) {
+      ui.menubar.addMenu('Hello, World Menu', function(menu, parent) {
         ui.menus.addMenuItem(menu, 'helloWorldAction');
-    });
+      });
 //
 //    // Reorders menubar
 //    ui.menubar.container.insertBefore(ui.menubar.container.lastChild,
